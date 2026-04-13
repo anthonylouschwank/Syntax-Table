@@ -109,3 +109,9 @@ T  -> int | float | bool
 | Expresiones Aritméticas | Sí | FIRST disjuntos en todas las alternativas |
 | if-else (dangling else) | No | Conflicto en `M[S, if]` |
 | Declaraciones de Variables | Sí | FIRST disjuntos, sin ambigüedad |
+
+---
+
+## Video
+
+https://youtu.be/dU9mGbPWfMU
